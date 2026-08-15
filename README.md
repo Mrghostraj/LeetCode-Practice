@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Mrghostraj/DSA/tree/master/0283-move-zeroes) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Mrghostraj/DSA/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
