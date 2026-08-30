@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0189-rotate-array](https://github.com/Mrghostraj/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mrghostraj/DSA/tree/master/0283-move-zeroes) |
+| [1768-merge-strings-alternately](https://github.com/Mrghostraj/DSA/tree/master/1768-merge-strings-alternately) |
 ## Database
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Mrghostraj/DSA/tree/master/0242-valid-anagram) |
+| [1768-merge-strings-alternately](https://github.com/Mrghostraj/DSA/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
