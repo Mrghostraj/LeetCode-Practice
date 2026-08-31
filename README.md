@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0177-nth-highest-salary](https://github.com/Mrghostraj/DSA/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Mrghostraj/DSA/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Mrghostraj/DSA/tree/master/0180-consecutive-numbers) |
+| [0183-customers-who-never-order](https://github.com/Mrghostraj/DSA/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/Mrghostraj/DSA/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Mrghostraj/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0550-game-play-analysis-iv](https://github.com/Mrghostraj/DSA/tree/master/0550-game-play-analysis-iv) |
