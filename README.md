@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Mrghostraj/DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1164-product-price-at-a-given-date](https://github.com/Mrghostraj/DSA/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/Mrghostraj/DSA/tree/master/1174-immediate-food-delivery-ii) |
+| [1179-reformat-department-table](https://github.com/Mrghostraj/DSA/tree/master/1179-reformat-department-table) |
 | [1193-monthly-transactions-i](https://github.com/Mrghostraj/DSA/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Mrghostraj/DSA/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/Mrghostraj/DSA/tree/master/1211-queries-quality-and-percentage) |
