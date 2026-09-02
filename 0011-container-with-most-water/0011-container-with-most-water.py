@@ -12,7 +12,7 @@ class Solution(object):
             elif height[left] > height[right]:
                 right-=1
             else:
-                left==1
+                left+=1
                 right-=1
         return max_area
         
