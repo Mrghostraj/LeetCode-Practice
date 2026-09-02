@@ -17,17 +17,20 @@ A collection of LeetCode questions to ace the coding interview!
 | [0334-increasing-triplet-subsequence](https://github.com/Mrghostraj/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Mrghostraj/DSA/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mrghostraj/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Mrghostraj/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mrghostraj/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Mrghostraj/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mrghostraj/DSA/tree/master/0242-valid-anagram) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Mrghostraj/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Mrghostraj/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mrghostraj/DSA/tree/master/0242-valid-anagram) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Mrghostraj/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/Mrghostraj/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Mrghostraj/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Mrghostraj/DSA/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Mrghostraj/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Mrghostraj/DSA/tree/master/1768-merge-strings-alternately) |
 ## Database
 |  |
