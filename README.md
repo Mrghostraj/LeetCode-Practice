@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/Mrghostraj/DSA/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mrghostraj/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Mrghostraj/DSA/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
