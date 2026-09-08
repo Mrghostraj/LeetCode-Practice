@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1075-project-employees-i](https://github.com/Mrghostraj/DSA/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/Mrghostraj/DSA/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Mrghostraj/DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1158-market-analysis-i](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/1158-market-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/Mrghostraj/DSA/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/Mrghostraj/DSA/tree/master/1174-immediate-food-delivery-ii) |
 | [1179-reformat-department-table](https://github.com/Mrghostraj/DSA/tree/master/1179-reformat-department-table) |
