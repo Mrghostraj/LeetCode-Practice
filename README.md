@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mrghostraj/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
