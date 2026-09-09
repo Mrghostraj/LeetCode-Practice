@@ -22,7 +22,7 @@ class Solution(object):
 
         first = head 
         sec = prev
-        max_val = first.val + sec.val
+        max_val = 0
         while first and sec:
             max_val = max(max_val, first.val + sec.val)
             first = first.next
