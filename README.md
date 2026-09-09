@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1587-bank-account-summary-ii](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Mrghostraj/DSA/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1667-fix-names-in-a-table](https://github.com/Mrghostraj/DSA/tree/master/1667-fix-names-in-a-table) |
+| [1693-daily-leads-and-partners](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/Mrghostraj/DSA/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Mrghostraj/DSA/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/Mrghostraj/DSA/tree/master/1789-primary-department-for-each-employee) |
