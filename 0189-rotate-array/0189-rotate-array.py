@@ -13,5 +13,3 @@ class Solution(object):
         self.reverser(nums, k, len(nums)-1)
         return nums
         
-
-        
