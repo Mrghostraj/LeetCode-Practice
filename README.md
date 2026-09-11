@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Mrghostraj/DSA/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mrghostraj/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Euclidean Algorithm
