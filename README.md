@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Mrghostraj/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mrghostraj/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Mrghostraj/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mrghostraj/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mrghostraj/DSA/tree/master/0238-product-of-array-except-self) |
@@ -233,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0328-odd-even-linked-list](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
