@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mrghostraj/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mrghostraj/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mrghostraj/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mrghostraj/DSA/tree/master/0238-product-of-array-except-self) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mrghostraj/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mrghostraj/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mrghostraj/DSA/tree/master/0242-valid-anagram) |
 | [1207-unique-number-of-occurrences](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/1207-unique-number-of-occurrences) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mrghostraj/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mrghostraj/DSA/tree/master/0242-valid-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/1657-determine-if-two-strings-are-close) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mrghostraj/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0169-majority-element) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/1657-determine-if-two-strings-are-close) |
 ## Matrix
 |  |
@@ -244,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0136-single-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
