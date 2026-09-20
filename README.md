@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Mrghostraj/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mrghostraj/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mrghostraj/DSA/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Mrghostraj/DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mrghostraj/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mrghostraj/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mrghostraj/DSA/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0274-h-index) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mrghostraj/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
