@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0196-delete-duplicate-emails](https://github.com/Mrghostraj/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/Mrghostraj/DSA/tree/master/0262-trips-and-users) |
 | [0550-game-play-analysis-iv](https://github.com/Mrghostraj/DSA/tree/master/0550-game-play-analysis-iv) |
+| [0584-find-customer-referee](https://github.com/Mrghostraj/LeetCode-Practice/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Mrghostraj/DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Mrghostraj/DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Mrghostraj/DSA/tree/master/0607-sales-person) |
